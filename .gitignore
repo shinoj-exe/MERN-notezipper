@@ -2,13 +2,6 @@
 
 # dependencies
 /node_modules
-<<<<<<< HEAD
-# node_modules/
-# /frontend/node_modules/
-=======
-node_modules/
-/frontend/node_modules/
->>>>>>> a66608bf258328a4d3c8c9d0b541b391e466b906
 /.pnp
 .pnp.js
 
